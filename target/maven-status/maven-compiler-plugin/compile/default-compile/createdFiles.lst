@@ -1,0 +1,7 @@
+commands/SalvarFoto.class
+controllers/FrontController.class
+daos/FotoDao.class
+utils/FotoManager.class
+utils/Conexao.class
+interfaces/Command.class
+tags/ListarImagens.class
